@@ -3,7 +3,6 @@
 
 A modern Jetpack Compose Android app that predicts stock price trends using an ML regression model trained offline in Python and ported to Kotlin. It visualizes past and future data with a smooth Compose UI.
 
----
 
 ## ✨ Project Highlights
 
@@ -12,7 +11,6 @@ A modern Jetpack Compose Android app that predicts stock price trends using an M
 - Trend charts with historical + predicted points
 - Easy to maintain and extend
 
----
 
 ## 🚀 How to Run
 
@@ -23,7 +21,6 @@ A modern Jetpack Compose Android app that predicts stock price trends using an M
    ```
 3. Open in Android Studio, sync Gradle, and click **Run**.
 
----
 
 ## 🛠 Customization
 
@@ -31,7 +28,6 @@ A modern Jetpack Compose Android app that predicts stock price trends using an M
 - Integrate live stock feeds  
 - Add portfolio tracking
 
----
 
 ## 🌟 Next Features
 
@@ -39,4 +35,3 @@ A modern Jetpack Compose Android app that predicts stock price trends using an M
 - Cloud retraining  
 - Notification alerts
 
----
